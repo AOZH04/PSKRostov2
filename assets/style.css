@@ -828,8 +828,8 @@ ul { list-style: none; }
 
     .hero_section { min-height: calc(100dvh - var(--header_h)); padding: 40px 0 23%; }
     .section_divider_img { filter: drop-shadow(0 4px 14px rgba(0, 0, 0, 0.3)); }
-    .section_divider_gear { width: 72px; right: 6%; --gear_rise: 34px; filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.45)); }
-    .section_divider_gear_left { --gear_rise: -14px; }
+    .section_divider_gear { width: 72px; right: 6%; --gear_rise: 36px; filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.45)); }
+    .section_divider_gear_left { --gear_rise: -30px; }
     .hero_bg { object-position: center; }
     .hero_section_inner { grid-template-columns: 1fr; gap: 30px; }
     .hero_slider_card { order: -1; top: 0; margin-top: 66vw; }
